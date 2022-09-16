@@ -1,0 +1,11 @@
+.page__header {
+    text-align: center;
+}
+
+.marker {
+    background-color: black;
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    margin-bottom: 10px;
+}
