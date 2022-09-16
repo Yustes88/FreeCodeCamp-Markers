@@ -19,8 +19,8 @@
 .sleeve{
     width: 100px;
     height: 30px;
-    background-color: hsl(0, 0%, 100%, 0.7);
-    border-left: 10px double rgba(0,0,0, 0.7);
+    background-color: hsl(0, 0%, 100%, 0.6);
+    border-left: 10px double rgba(0,0,0, 0.6);
 }
 
 .red {
