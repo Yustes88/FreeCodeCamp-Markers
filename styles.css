@@ -9,3 +9,16 @@
     margin: auto;
     margin-bottom: 10px;
 }
+.cap, .sleeve {
+    display: inline-block;
+}
+.cap {
+    width: 60px;
+    height: 30px;
+}
+.sleeve{
+    width: 100px;
+    height: 30px;
+    background-color: hsl(0, 0%, 100%, 0.7);
+    border-left: 10px double rgba(0,0,0, 0.7);
+}
