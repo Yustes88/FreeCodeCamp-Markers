@@ -27,3 +27,8 @@
     background: linear-gradient(hsl(0, 79%, 45%), hsl(0, 79%, 70%), hsl(0, 79%, 35%));
     box-shadow: 0 0 10px 0 hsl(0, 62%, 35%);
 }
+
+.green {
+    background: linear-gradient(hsl(128, 44%, 41%), hsl(130, 58%, 62%), hsl(130, 58%, 31%));
+    box-shadow: 0 0 10px 0 hsl(130, 58%, 27%);
+}
